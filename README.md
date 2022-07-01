@@ -36,3 +36,6 @@ I chose Option 1 npm install --global --production windows-build-tools
 
 +++++++++++++++https://stackoverflow.com/questions/21562038/node-gyp-build-error-windows-x64++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+https://github.com/nodejs/node-gyp/issues/1663
+===================================================================================================================
