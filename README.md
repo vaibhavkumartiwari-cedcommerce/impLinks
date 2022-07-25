@@ -1,3 +1,6 @@
+https://ourcodeworld.com/articles/read/353/how-to-convert-numbers-to-words-number-spelling-in-javascript
+
+
 https://ieeexplore.ieee.org/abstract/document/9685695
 https://github.com/nodejs/node-gyp/blob/main/docs/Updating-npm-bundled-node-gyp.md
 
