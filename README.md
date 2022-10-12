@@ -1,6 +1,6 @@
 https://dmitripavlutin.com/javascript-fetch-async-await/ (IMP FOR FETCH())
 
-
+https://www.youtube.com/watch?v=AslncyG8whg (redux best)
 
 
 https://www.w3.org/WAI/WCAG21/quickref/
