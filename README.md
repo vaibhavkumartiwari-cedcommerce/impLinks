@@ -8,3 +8,4 @@ https://ourcodeworld.com/articles/read/353/how-to-convert-numbers-to-words-numbe
 
 
 https://ieeexplore.ieee.org/abstract/document/9685695
+https://snipcart.com/blog/javascript-module-bundler
